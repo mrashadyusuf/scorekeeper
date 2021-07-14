@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 14 15:52:47 SGT 2021
+0.base=C\:\\androidProject\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
